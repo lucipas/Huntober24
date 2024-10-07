@@ -1,0 +1,9 @@
+{
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "newFileLocation": "current",
+  "promptDelete": false
+}

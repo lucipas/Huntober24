@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "e927ec89c358b2a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2f40d22fe81df5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8b23e18cb7d0b49",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "e00bce68cd8c781d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Interviewing Techniques.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c13682c1011df06c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd724404b0d3764e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9f6f7e29f6bde2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0252add721c797a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e13285f10ad980df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#🎃",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d580c65ef8f3491c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f5e5fcf63a6f49fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "89c1be487a317a00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f0402167312018e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b5876a0e4010ccb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "202b75c88a4a1b75",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequencyReverse",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2a309213eca70b72",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "fadb6058209e4be9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "c13682c1011df06c",
+  "lastOpenFiles": [
+    "Notes/Interviewing Techniques.md",
+    "README.md",
+    "README.md",
+    "HW.md",
+    "template/Homework.md",
+    "Notes",
+    "homework/2 8-kata Codewars Using PREP.md",
+    "template/Untitled.md",
+    "template",
+    "homework",
+    "codewars.com.md",
+    "Week Uno.md",
+    "onlyDomains.js"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "theme": "obsidian",
+  "accentColor": "#178db5",
+  "interfaceFontFamily": "Comic Sans MS",
+  "textFontFamily": "Source Code Pro",
+  "baseFontSizeAction": true,
+  "baseFontSize": 21,
+  "nativeMenus": true
+}
